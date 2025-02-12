@@ -1,0 +1,65 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: black;
+}
+
+.blue {
+    color: blue;
+    font-size: 90px;
+}
+
+.pink {
+    color: rgb(255, 0, 204);
+    font-size: 90px;
+}
+
+h1 {
+    font-size: 90px;
+    text-align: center;
+}
+
+.blue1:hover{
+  background-color: blue;  
+  
+}
+
+.blue:hover{
+    color: rgb(237, 2, 166);
+}
+
+.blue1 {
+    border: 1px solid blue;
+    padding: 20px;
+}
+
+.pink1{
+    border: 1px solid rgb(255, 0, 204);
+    padding: 20px;
+
+}
+
+.qator {
+    display: flex;
+    gap: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+body {
+    background-color: black;
+}
+.pink1:hover{
+background-color: rgb(248, 4, 187);
+}
+.pink:hover{
+color: blue;
+}
+
